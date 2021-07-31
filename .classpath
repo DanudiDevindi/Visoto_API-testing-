@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Project1/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/java_projects/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/testng-7.3.0.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/docs/rest-assured-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/docs/rest-assured-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder/rest-assured-4.3.3-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder (2)123/New folder (2)/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder (2)123/New folder (2)/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder (2)123/New folder (2)/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/java_projects/New folder (2)123/New folder (2)/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="output" path="Project1/out/production/Project1"/>
+</classpath>
